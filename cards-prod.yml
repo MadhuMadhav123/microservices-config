@@ -2,24 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards Metta"
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Metta - Product Owner"
-    email: "metta.com"
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
-
-
-
-#build:
-#  version: "1.0"
-#
-#cards:
-#  message: "Welcome to EazyBank cards related prod APIs "
-#  contactDetails:
-#    name: "Sandra Harald - Product Owner"
-#    email: "sandra@eazybank.com"
-#  onCallSupport:
-#    - (617) 432-2356
-#    - (936) 564-8721
